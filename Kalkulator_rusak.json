@@ -345,6 +345,182 @@
         "name": "loading/loading4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "background/main.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "background/main.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "ini_buat_tamplate_kalkulatornya/calcullator sketsa posisi close.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ini_buat_tamplate_kalkulatornya/calcullator sketsa posisi close.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "ini_buat_tamplate_kalkulatornya/calcullator sketsa posisi open.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "ini_buat_tamplate_kalkulatornya/calcullator sketsa posisi open.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "latihan_tambah_dan_kurang/item chip planet 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "latihan_tambah_dan_kurang/item chip planet 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "click_here_down/click here 1 1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"click_here_down/click here 1 1.png\",\"extension\":\".png\"}",
+        "name": "click_here_down/click here 1 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "click_here_down/click here 1.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"click_here_down/click here 1.png\",\"extension\":\".png\"}",
+        "name": "click_here_down/click here 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tombol_tidak_tekan/calcullator tombol 1 8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tombol_tidak_tekan/calcullator tombol 1 8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tombol_tidak_tekan/calcullator tombol 1 7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tombol_tidak_tekan/calcullator tombol 1 7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tombol_tidak_tekan/calcullator tombol 1 6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tombol_tidak_tekan/calcullator tombol 1 6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tombol_tidak_tekan/calcullator tombol 1 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tombol_tidak_tekan/calcullator tombol 1 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tombol_tekan/calcullator tombol 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tombol_tekan/calcullator tombol 2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tombol_tekan/calcullator tombol 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tombol_tekan/calcullator tombol 3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tombol_tekan/calcullator tombol 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tombol_tekan/calcullator tombol 4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "tombol_tekan/calcullator tombol 5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "tombol_tekan/calcullator tombol 5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "benar_salah/layer_benar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "benar_salah/layer_benar.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "benar_salah/layer_salah.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "benar_salah/layer_salah.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite5.png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "chip_level_1/item chip 0 Meteor 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chip_level_1/item chip 0 Meteor 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "chip_level_1/item chip 1 Jupiter 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chip_level_1/item chip 1 Jupiter 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "chip_level_1/item chip 2 Saturn 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "chip_level_1/item chip 2 Saturn 1.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -469,6 +645,11 @@
       "name": "level_unlock",
       "type": "number",
       "value": 1
+    },
+    {
+      "name": "tujuan_loading",
+      "type": "string",
+      "value": ""
     }
   ],
   "layouts": [
@@ -492,7 +673,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.16031528804546846,
+        "zoomFactor": 0.23867758270258094,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3506,6 +3687,16 @@
           "actions": [
             {
               "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "tujuan_loading",
+                "=",
+                "\"latihan_level_1\""
+              ]
+            },
+            {
+              "type": {
                 "value": "PushScene"
               },
               "parameters": [
@@ -4071,8 +4262,44 @@
       "events": [
         {
           "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PrioritizeLoadingOfScene"
+              },
+              "parameters": [
+                "",
+                "tujuan_loading"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "tujuan_loading"
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -4177,6 +4404,4464 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "latihan_95level_951",
+      "name": "latihan_level_1",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.37971210019479545,
+        "windowMask": false
+      },
+      "objectsGroups": [
+        {
+          "name": "next_group",
+          "objects": [
+            {
+              "name": "next_text"
+            },
+            {
+              "name": "next_button"
+            }
+          ]
+        },
+        {
+          "name": "pertanyaan_group",
+          "objects": [
+            {
+              "name": "layar_hologram"
+            },
+            {
+              "name": "pertanyaan"
+            },
+            {
+              "name": "layer_hasil_jawaban"
+            }
+          ]
+        }
+      ],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bg",
+          "persistentUuid": "88210cb7-1377-4713-88d6-ba33e2664ee1",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 124.20081967213115,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Latihan_text",
+          "persistentUuid": "6a329c54-93eb-4a71-a3c1-0114184879a6",
+          "width": 319,
+          "x": 28,
+          "y": 44,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 672.3696498054475,
+          "keepRatio": true,
+          "layer": "",
+          "name": "math_bot",
+          "persistentUuid": "363b7a90-9667-4143-900a-100d9a04dcbd",
+          "width": 683,
+          "x": -196,
+          "y": 269,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 564.8767605633802,
+          "keepRatio": true,
+          "layer": "",
+          "name": "alat_kalkulator",
+          "persistentUuid": "7e9d8e3a-6d67-425c-8ece-ee43c837263d",
+          "width": 345,
+          "x": 454.46,
+          "y": 89,
+          "zOrder": 5,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "item_chip_planet",
+          "persistentUuid": "ad7fb8c7-aca7-4d5c-94fd-eb65f334ac76",
+          "width": 0,
+          "x": 485.83,
+          "y": -287,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 175,
+          "layer": "",
+          "name": "main_text",
+          "persistentUuid": "8cf8777e-3c70-4f22-8e17-39a54ad402ff",
+          "width": 363,
+          "x": 31,
+          "y": 148,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "next_text",
+          "persistentUuid": "1c6a64f7-8bea-474d-bcdd-9d0e047d4bf2",
+          "width": 0,
+          "x": 1076,
+          "y": 718,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "next_button",
+          "persistentUuid": "91456e6f-125c-4b95-97db-4353b63d89b0",
+          "width": 0,
+          "x": 1050,
+          "y": 720,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "setting_button",
+          "persistentUuid": "b47211ff-fd8e-4104-91d4-bba9759aa5a5",
+          "width": 0,
+          "x": 1131,
+          "y": 720,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 50,
+          "keepRatio": true,
+          "layer": "",
+          "name": "tombol_oranye",
+          "persistentUuid": "d162411b-06e7-4936-bd2b-071751cac30c",
+          "width": 122,
+          "x": 566,
+          "y": 587,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 109,
+          "layer": "",
+          "name": "click_here",
+          "persistentUuid": "ca408f03-32e1-4d0a-a67e-c5952300ac36",
+          "width": 209,
+          "x": 522,
+          "y": 483,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "layar_hologram",
+          "persistentUuid": "0a0c8044-506c-41ee-8f1a-8b3bcf410a45",
+          "width": 0,
+          "x": 1565,
+          "y": 66,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "pertanyaan",
+          "persistentUuid": "e9e78971-5f65-46c8-a831-e7fb5e736475",
+          "width": 0,
+          "x": 1684,
+          "y": 189,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "button_tambah",
+          "persistentUuid": "8c07bb5d-2420-478c-b941-bd7e387556e7",
+          "width": 0,
+          "x": 476,
+          "y": 720,
+          "zOrder": 21,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "layer_hasil_jawaban",
+          "persistentUuid": "021934d4-4fd3-4ab0-aaf1-8d4a360be0de",
+          "width": 0,
+          "x": 1590,
+          "y": 91,
+          "zOrder": 22,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "button_kurang",
+          "persistentUuid": "bc5175a9-496a-4a34-b047-2b42dff2bd6e",
+          "width": 0,
+          "x": 664,
+          "y": 720,
+          "zOrder": 23,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "transition",
+          "name": "transition",
+          "persistentUuid": "19cc3c7f-2cc3-494c-a26e-0996988c7c73",
+          "width": 0,
+          "x": 1284,
+          "y": 0,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "bg",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "background/main.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Latihan_text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "LATIHAN",
+          "font": "minecraft/Minecraft.ttf",
+          "textAlignment": "left",
+          "characterSize": 64,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 12,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "LATIHAN",
+            "font": "minecraft/Minecraft.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 64,
+            "lineHeight": 0,
+            "color": "255;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "math_bot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 0,
+              "RadiusY": 10,
+              "LoopDuration": 3,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "normal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "math_bot_hai/Math Bot 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 252,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 902
+                          },
+                          {
+                            "x": 252,
+                            "y": 902
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "menyapa",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "math_bot_hai/Math Bot 1 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 252,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 902
+                          },
+                          {
+                            "x": 252,
+                            "y": 902
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "siap",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "math_bot_hai/Math Bot 2 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 252,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 902
+                          },
+                          {
+                            "x": 252,
+                            "y": 902
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "loading",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "loading_muculin_layar.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 252,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 902
+                          },
+                          {
+                            "x": 252,
+                            "y": 902
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "alat_kalkulator",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "close",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ini_buat_tamplate_kalkulatornya/calcullator sketsa posisi open.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 136
+                          },
+                          {
+                            "x": 284,
+                            "y": 136
+                          },
+                          {
+                            "x": 284,
+                            "y": 465
+                          },
+                          {
+                            "x": 0,
+                            "y": 465
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "open",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ini_buat_tamplate_kalkulatornya/calcullator sketsa posisi close.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 136
+                          },
+                          {
+                            "x": 284,
+                            "y": 136
+                          },
+                          {
+                            "x": 284,
+                            "y": 465
+                          },
+                          {
+                            "x": 0,
+                            "y": 465
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "item_chip_planet",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "latihan_tambah_dan_kurang/item chip planet 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 0
+                          },
+                          {
+                            "x": 280,
+                            "y": 0
+                          },
+                          {
+                            "x": 280,
+                            "y": 287
+                          },
+                          {
+                            "x": 7,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "main_text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "AutoTyping",
+              "type": "AutoTyping::AutoTyping",
+              "Text": "Text",
+              "Interval": 0.05,
+              "CharacterJustAdded": false,
+              "FullText": "",
+              "TypedText": ""
+            }
+          ],
+          "string": "",
+          "font": "minecraft/Minecraft.ttf",
+          "textAlignment": "left",
+          "characterSize": 26,
+          "color": {
+            "b": 255,
+            "g": 229,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 12,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "minecraft/Minecraft.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 26,
+            "lineHeight": 0,
+            "color": "0;229;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "next_button",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "next_count_click",
+              "type": "number",
+              "value": 0
+            }
+          ],
+          "effects": [],
+          "behaviors": [
+            {
+              "isFolded": true,
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "next_text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "NEXT",
+          "font": "minecraft/Minecraft.ttf",
+          "textAlignment": "left",
+          "characterSize": 64,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 12,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "NEXT",
+            "font": "minecraft/Minecraft.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 64,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "tombol_oranye",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "click_here",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "click_here_down/click here 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 456,
+                            "y": 32
+                          },
+                          {
+                            "x": 456,
+                            "y": 224
+                          },
+                          {
+                            "x": 24,
+                            "y": 224
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "click_here_down/click here 1 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 456,
+                            "y": 32
+                          },
+                          {
+                            "x": 456,
+                            "y": 224
+                          },
+                          {
+                            "x": 24,
+                            "y": 224
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "layar_hologram",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "layar_hologram.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 666,
+                            "y": 12
+                          },
+                          {
+                            "x": 666,
+                            "y": 356
+                          },
+                          {
+                            "x": 12,
+                            "y": 356
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "pertanyaan",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "3 [?] 2 = 5",
+          "font": "minecraft/Minecraft.ttf",
+          "textAlignment": "center",
+          "characterSize": 96,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "3 [?] 2 = 5",
+            "font": "minecraft/Minecraft.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 96,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "button_tambah",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "tambah",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tidak_tekan/calcullator tombol 1 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kurang",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tidak_tekan/calcullator tombol 1 6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kali",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tidak_tekan/calcullator tombol 1 7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "bagi",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tidak_tekan/calcullator tombol 1 8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "tambah_click",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tekan/calcullator tombol 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kurang_click",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tekan/calcullator tombol 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kali_click",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tekan/calcullator tombol 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "bagi_click",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tekan/calcullator tombol 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "layer_hasil_jawaban",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "blank",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "benar",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "benar_salah/layer_benar.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 626,
+                            "y": 0
+                          },
+                          {
+                            "x": 626,
+                            "y": 318
+                          },
+                          {
+                            "x": 0,
+                            "y": 318
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "salah",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "benar_salah/layer_salah.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 626,
+                            "y": 0
+                          },
+                          {
+                            "x": 626,
+                            "y": 318
+                          },
+                          {
+                            "x": 0,
+                            "y": 318
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "button_kurang",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ButtonFSM",
+              "type": "ButtonStates::ButtonFSM",
+              "ShouldCheckHovering": true,
+              "State": "Idle",
+              "TouchId": 0,
+              "TouchIsInside": false,
+              "MouseIsInside": false,
+              "Index": 2.0247e-320
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "tambah",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tidak_tekan/calcullator tombol 1 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kurang",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tidak_tekan/calcullator tombol 1 6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kali",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tidak_tekan/calcullator tombol 1 7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "bagi",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tidak_tekan/calcullator tombol 1 8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "tambah_click",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tekan/calcullator tombol 3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kurang_click",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tekan/calcullator tombol 2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "kali_click",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tekan/calcullator tombol 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "bagi_click",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "tombol_tekan/calcullator tombol 5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 19,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 19
+                          },
+                          {
+                            "x": 125,
+                            "y": 125
+                          },
+                          {
+                            "x": 19,
+                            "y": 125
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "transition",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "folderName": "ui",
+            "children": [
+              {
+                "objectName": "click_here"
+              },
+              {
+                "objectName": "tombol_oranye"
+              },
+              {
+                "objectName": "Latihan_text"
+              },
+              {
+                "objectName": "main_text"
+              },
+              {
+                "objectName": "next_button"
+              },
+              {
+                "objectName": "next_text"
+              }
+            ]
+          },
+          {
+            "folderName": "main_object",
+            "children": [
+              {
+                "folderName": "benar_salah",
+                "children": [
+                  {
+                    "objectName": "layer_hasil_jawaban"
+                  }
+                ]
+              },
+              {
+                "folderName": "item",
+                "children": [
+                  {
+                    "objectName": "item_chip_planet"
+                  },
+                  {
+                    "objectName": "alat_kalkulator"
+                  },
+                  {
+                    "objectName": "button_tambah"
+                  },
+                  {
+                    "objectName": "button_kurang"
+                  }
+                ]
+              },
+              {
+                "folderName": "pertanyaan",
+                "children": [
+                  {
+                    "objectName": "layar_hologram"
+                  },
+                  {
+                    "objectName": "pertanyaan"
+                  }
+                ]
+              },
+              {
+                "objectName": "math_bot"
+              }
+            ]
+          },
+          {
+            "objectName": "bg"
+          },
+          {
+            "objectName": "transition"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreY"
+              },
+              "parameters": [
+                "math_bot",
+                "=",
+                "720"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "math_bot",
+                "Tween",
+                "\"go up\"",
+                "269",
+                "\"easeOutQuad\"",
+                "1.3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "tombol_oranye",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "click_here"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "math_bot",
+                "Tween",
+                "\"go up\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "item_chip_planet",
+                "Tween",
+                "\"go down\"",
+                "116",
+                "\"easeOutQuad\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "next_group",
+                "Tween",
+                "\"go up\"",
+                "next_group.Y()-next_button.Height()",
+                "\"linear\"",
+                "1.3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "item_chip_planet",
+                "Tween",
+                "\"go down\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "main_text",
+                "Text",
+                "=",
+                "\"Alat ini adalah Calculator Math, alat ini bisa mengakses item chip yang berisi sebuah data.\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "next_button",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "next_button",
+                "next_count_click",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "next_button.next_count_click",
+                "\"info\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "next_button",
+                "next_count_click",
+                "=",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "next_group",
+                "Tween",
+                "\"go down\"",
+                "next_group.Y()+next_button.Height()",
+                "\"linear\"",
+                "1.3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "setting_button",
+                "Tween",
+                "\"go up\"",
+                "setting_button.Y()-setting_button.Height()",
+                "\"linear\"",
+                "1.3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "math_bot",
+                "Animation",
+                "=",
+                "\"siap\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "main_text",
+                "Text",
+                "=",
+                "\"Untuk mengecek datanya kamu bisa memencet tombol yang berwarna oren, coba di tekan saja!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "click_here",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "tombol_oranye",
+                "ButtonFSM",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "tombol_oranye",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "tombol_oranye",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "click_here"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "math_bot",
+                "Animation",
+                "=",
+                "\"normal\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "alat_kalkulator",
+                "Animation",
+                "=",
+                "\"open\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "math_bot",
+                "Animation",
+                "=",
+                "\"siap\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "main_text",
+                "Text",
+                "=",
+                "\"liat chip item ini memunculkan sebuah soal,. Kamu harus tau bagaimana angka 3 dan 2 ini bisa menjadi angka 5.\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "setting_button",
+                "Tween",
+                "\"go down\"",
+                "setting_button.Y()+setting_button.Height()",
+                "\"linear\"",
+                "1.3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "setting_button",
+                "Tween",
+                "\"go down\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "0.8"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "pertanyaan_group",
+                "Tween",
+                "\"go left\"",
+                "pertanyaan_group.X()-1280",
+                "\"linear\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "next_group",
+                "Tween",
+                "\"go up 2\"",
+                "next_group.Y()-next_button.Height()",
+                "\"linear\"",
+                "1.3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberObjectVariable"
+              },
+              "parameters": [
+                "next_button",
+                "next_count_click",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "main_text",
+                "Text",
+                "=",
+                "\"nah data berisi pertambahan dan pengurangan ya. coba kamu pilih salah satu tombol yang benar!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "next_group",
+                "Tween",
+                "\"go down 2\"",
+                "next_group.Y()+next_button.Height()",
+                "\"linear\"",
+                "1.3",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "next_group",
+                "Tween",
+                "\"go down 2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "setting_button",
+                "Tween",
+                "\"go up 2\"",
+                "setting_button.Y()-setting_button.Height()",
+                "\"linear\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "button_tambah",
+                "Tween",
+                "\"go up\"",
+                "555\n",
+                "\"linear\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "button_kurang",
+                "Tween",
+                "\"go up\"",
+                "555\n",
+                "\"linear\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "main_text",
+                "Text",
+                "=",
+                "\"\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "math_bot",
+                "Animation",
+                "=",
+                "\"loading\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "button_tambah",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "button_tambah",
+                "Animation",
+                "=",
+                "\"tambah_click\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "layer_hasil_jawaban",
+                "Animation",
+                "=",
+                "\"benar\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "math_bot",
+                "Animation",
+                "=",
+                "\"siap\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "main_text",
+                "Text",
+                "=",
+                "\"WOW kamu berhasil, sepertinya kamu sudah siap memeriksa beberapa data yang ada. Ayo kita periksa! \""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "button_kurang",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "button_tambah",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "transition",
+                "=",
+                "1280"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "transition",
+                "Tween",
+                "\"go left\"",
+                "0",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "tujuan_loading",
+                "=",
+                "\"level 1\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "button_kurang",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "button_kurang",
+                "Animation",
+                "=",
+                "\"kurang_click\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "layer_hasil_jawaban",
+                "Animation",
+                "=",
+                "\"salah\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "math_bot",
+                "Animation",
+                "=",
+                "\"normal\""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "main_text",
+                "Text",
+                "=",
+                "\"Upss, jangan salah memilih. Silahkan di coba kembali!\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "button_tambah",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "button_kurang",
+                "ButtonFSM",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "MettreX"
+              },
+              "parameters": [
+                "transition",
+                "=",
+                "1280"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "transition",
+                "Tween",
+                "\"go left\"",
+                "0",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetStringVariable"
+              },
+              "parameters": [
+                "tujuan_loading",
+                "=",
+                "\"level 1\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "transition",
+                "Tween",
+                "\"go left\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PushScene"
+              },
+              "parameters": [
+                "",
+                "\"loading_scene\""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "transition",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "AutoTyping",
+          "type": "AutoTyping::AutoTyping"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "ButtonObjectEffects",
+          "type": "ButtonStates::ButtonObjectEffects"
+        },
+        {
+          "name": "ButtonScaleTween",
+          "type": "ButtonStates::ButtonScaleTween"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "EllipseMovement",
+          "type": "EllipseMovement::EllipseMovement"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "level_321",
+      "name": "level 1",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.43357743047023817,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "bg",
+          "persistentUuid": "9df9d4ae-583c-4a1c-801e-1d448bff49ff",
+          "width": 0,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 565,
+          "keepRatio": true,
+          "layer": "",
+          "name": "alat_kalkulator",
+          "persistentUuid": "7f52beb3-157c-44c6-ab25-d99c6109e9bb",
+          "width": 345.0752688172043,
+          "x": 467,
+          "y": 89,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 672.3696498054475,
+          "keepRatio": true,
+          "layer": "",
+          "name": "math_bot",
+          "persistentUuid": "9e0bcec1-ad64-40e3-917d-19604cb1d8cb",
+          "width": 683,
+          "x": -196,
+          "y": 720,
+          "zOrder": 3,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 2
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 180,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "chip",
+          "persistentUuid": "2c01ac69-ceda-4a22-9d45-8e8a7773ff21",
+          "width": 0,
+          "x": 500,
+          "y": -288,
+          "zOrder": 3,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 0
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 214,
+          "layer": "",
+          "name": "level_1_text",
+          "persistentUuid": "8ac0f88c-7eb9-4744-821a-ca28b3762c7e",
+          "width": 845,
+          "x": 217,
+          "y": 821,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "bg",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "background/main.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 0
+                          },
+                          {
+                            "x": 1280,
+                            "y": 720
+                          },
+                          {
+                            "x": 0,
+                            "y": 720
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "alat_kalkulator",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "close",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ini_buat_tamplate_kalkulatornya/calcullator sketsa posisi open.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 136
+                          },
+                          {
+                            "x": 284,
+                            "y": 136
+                          },
+                          {
+                            "x": 284,
+                            "y": 465
+                          },
+                          {
+                            "x": 0,
+                            "y": 465
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "open",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "ini_buat_tamplate_kalkulatornya/calcullator sketsa posisi close.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 136
+                          },
+                          {
+                            "x": 284,
+                            "y": 136
+                          },
+                          {
+                            "x": 284,
+                            "y": 465
+                          },
+                          {
+                            "x": 0,
+                            "y": 465
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "math_bot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 0,
+              "RadiusY": 10,
+              "LoopDuration": 3,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "normal",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "math_bot_hai/Math Bot 4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 252,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 902
+                          },
+                          {
+                            "x": 252,
+                            "y": 902
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "menyapa",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "math_bot_hai/Math Bot 1 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 252,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 902
+                          },
+                          {
+                            "x": 252,
+                            "y": 902
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "siap",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "math_bot_hai/Math Bot 2 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 252,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 902
+                          },
+                          {
+                            "x": 252,
+                            "y": 902
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "loading",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "loading_muculin_layar.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 252,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 126
+                          },
+                          {
+                            "x": 776,
+                            "y": 902
+                          },
+                          {
+                            "x": 252,
+                            "y": 902
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "chip",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "0 Meteor",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "chip_level_1/item chip 0 Meteor 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 0
+                          },
+                          {
+                            "x": 280,
+                            "y": 0
+                          },
+                          {
+                            "x": 280,
+                            "y": 287
+                          },
+                          {
+                            "x": 7,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "1 Jupiter",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "chip_level_1/item chip 1 Jupiter 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 0
+                          },
+                          {
+                            "x": 280,
+                            "y": 0
+                          },
+                          {
+                            "x": 280,
+                            "y": 287
+                          },
+                          {
+                            "x": 7,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2 Saturn",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "chip_level_1/item chip 2 Saturn 1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 0
+                          },
+                          {
+                            "x": 280,
+                            "y": 0
+                          },
+                          {
+                            "x": 280,
+                            "y": 287
+                          },
+                          {
+                            "x": 7,
+                            "y": 287
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "level_1_text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "EllipseMovement",
+              "type": "EllipseMovement::EllipseMovement",
+              "RadiusX": 0,
+              "RadiusY": 6,
+              "LoopDuration": 4,
+              "InitialTurningLeft": false,
+              "InitialDirectionAngle": 0,
+              "ShouldRotate": false,
+              "RotationOffset": 0,
+              "CenterX": 0,
+              "CenterY": 0,
+              "MovementAngle": 0,
+              "OldX": 2.0247e-320,
+              "OldY": 2.0247e-320
+            },
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "LEVEL 1!",
+          "font": "minecraft/Minecraft.ttf",
+          "textAlignment": "center",
+          "characterSize": 128,
+          "color": {
+            "b": 255,
+            "g": 229,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 12,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "LEVEL 1!",
+            "font": "minecraft/Minecraft.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "center",
+            "characterSize": 128,
+            "lineHeight": 0,
+            "color": "0;229;255"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "bg"
+          },
+          {
+            "objectName": "alat_kalkulator"
+          },
+          {
+            "objectName": "math_bot"
+          },
+          {
+            "objectName": "chip"
+          },
+          {
+            "objectName": "level_1_text"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "math_bot",
+                "Tween",
+                "\"go up\"",
+                "267",
+                "\"easeOutExpo\"",
+                "2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "level_1_text",
+                "EllipseMovement",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "math_bot",
+                "Tween",
+                "\"go up\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "chip",
+                "Tween",
+                "\"go down\"",
+                "115",
+                "\"easeOutQuad\"",
+                "2",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "chip",
+                "Tween",
+                "\"go down\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "math_bot",
+                "Animation",
+                "=",
+                "\"normal\""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "alat_kalkulator",
+                "Animation",
+                "=",
+                "\"open\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "1.5"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "math_bot",
+                "Animation",
+                "=",
+                "\"loading\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "level_1_text",
+                "Tween",
+                "\"go up\"",
+                "366",
+                "\"linear\"",
+                "2",
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Ambient Hemisphere Light",
+              "doubleParameters": {
+                "elevation": 40,
+                "intensity": 0.33,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "groundColor": "127;127;127",
+                "skyColor": "255;255;255",
+                "top": "Z+"
+              },
+              "booleanParameters": {}
+            },
+            {
+              "effectType": "Scene3D::DirectionalLight",
+              "name": "3D Sun Light",
+              "doubleParameters": {
+                "distanceFromCamera": 1500,
+                "elevation": 40,
+                "frustumSize": 4000,
+                "intensity": 0.75,
+                "minimumShadowBias": 0,
+                "rotation": 300
+              },
+              "stringParameters": {
+                "color": "255;255;255",
+                "shadowQuality": "medium",
+                "top": "Z+"
+              },
+              "booleanParameters": {
+                "isCastingShadow": true
+              }
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM"
+        },
+        {
+          "name": "ButtonObjectEffects",
+          "type": "ButtonStates::ButtonObjectEffects"
+        },
+        {
+          "name": "ButtonScaleTween",
+          "type": "ButtonStates::ButtonScaleTween"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "EllipseMovement",
+          "type": "EllipseMovement::EllipseMovement"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "Tween",
