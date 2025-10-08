@@ -624,6 +624,428 @@
           ]
         }
       ]
+    },
+    {
+      "adaptCollisionMaskAutomatically": true,
+      "assetStoreId": "",
+      "name": "button_jawaban",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [
+        {
+          "name": "id",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "is_clicked",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      "effects": [],
+      "behaviors": [
+        {
+          "name": "ButtonFSM",
+          "type": "ButtonStates::ButtonFSM",
+          "ShouldCheckHovering": true,
+          "State": "Idle",
+          "TouchId": 0,
+          "TouchIsInside": false,
+          "MouseIsInside": false,
+          "Index": 2.0247e-320
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
+        }
+      ],
+      "animations": [
+        {
+          "name": "tambah",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tombol_tidak_tekan/calcullator tombol 1 5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 125
+                      },
+                      {
+                        "x": 19,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kurang",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tombol_tidak_tekan/calcullator tombol 1 6.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 125
+                      },
+                      {
+                        "x": 19,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kali",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tombol_tidak_tekan/calcullator tombol 1 7.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 125
+                      },
+                      {
+                        "x": 19,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bagi",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tombol_tidak_tekan/calcullator tombol 1 8.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 125
+                      },
+                      {
+                        "x": 19,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "tambah_click",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tombol_tekan/calcullator tombol 3.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 125
+                      },
+                      {
+                        "x": 19,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kurang_click",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tombol_tekan/calcullator tombol 2.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 125
+                      },
+                      {
+                        "x": 19,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "kali_click",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tombol_tekan/calcullator tombol 4.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 125
+                      },
+                      {
+                        "x": 19,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bagi_click",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": false,
+              "timeBetweenFrames": 0.08,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "tombol_tekan/calcullator tombol 5.png",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "centerPoint": {
+                    "automatic": true,
+                    "name": "centre",
+                    "x": 0,
+                    "y": 0
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 19,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 19
+                      },
+                      {
+                        "x": 125,
+                        "y": 125
+                      },
+                      {
+                        "x": 19,
+                        "y": 125
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ],
   "objectsFolderStructure": {
@@ -631,6 +1053,9 @@
     "children": [
       {
         "objectName": "setting_button"
+      },
+      {
+        "objectName": "button_jawaban"
       }
     ]
   },
@@ -4431,7 +4856,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.37971210019479545,
+        "zoomFactor": 0.27253598967729475,
         "windowMask": false
       },
       "objectsGroups": [
@@ -7393,6 +7818,17 @@
           "actions": [
             {
               "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "pertanyaan",
+                "Text",
+                "=",
+                "\"3 + 2 = 5\""
+              ]
+            },
+            {
+              "type": {
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
               },
               "parameters": [
@@ -7514,6 +7950,17 @@
             }
           ],
           "actions": [
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "pertanyaan",
+                "Text",
+                "=",
+                "\"3 - 2 = 5\""
+              ]
+            },
             {
               "type": {
                 "value": "AnimatableCapability::AnimatableBehavior::SetName"
@@ -7849,11 +8296,118 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.43357743047023817,
+        "zoomFactor": 0.49508400737489133,
         "windowMask": false
       },
-      "objectsGroups": [],
-      "variables": [],
+      "objectsGroups": [
+        {
+          "name": "pertanyaan_group",
+          "objects": [
+            {
+              "name": "pertanyaan"
+            },
+            {
+              "name": "layar_hologram"
+            },
+            {
+              "name": "layer_hasil_jawaban"
+            }
+          ]
+        }
+      ],
+      "variables": [
+        {
+          "name": "questions",
+          "type": "array",
+          "children": [
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "answer_id",
+                  "type": "string",
+                  "value": "1"
+                },
+                {
+                  "name": "question",
+                  "type": "string",
+                  "value": "7 [?] 2 = 5"
+                },
+                {
+                  "name": "right_question",
+                  "type": "string",
+                  "value": "7 - 2 = 5"
+                },
+                {
+                  "name": "wrong_question",
+                  "type": "string",
+                  "value": "7 + 2 = 5"
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "answer_id",
+                  "type": "number",
+                  "value": 0
+                },
+                {
+                  "name": "question",
+                  "type": "string",
+                  "value": "4 [?] 3 = 7"
+                },
+                {
+                  "name": "right_question",
+                  "type": "string",
+                  "value": "4 + 3 = 7"
+                },
+                {
+                  "name": "wrong_question",
+                  "type": "string",
+                  "value": "4 - 3 = 7"
+                }
+              ]
+            },
+            {
+              "type": "structure",
+              "children": [
+                {
+                  "name": "answer_id",
+                  "type": "number",
+                  "value": 1
+                },
+                {
+                  "name": "question",
+                  "type": "string",
+                  "value": "10 [?] 6 = 4"
+                },
+                {
+                  "name": "right_question",
+                  "type": "string",
+                  "value": "10 - 6 = 4"
+                },
+                {
+                  "name": "wrong_question",
+                  "type": "string",
+                  "value": "10 + 6 = 4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "current_answer",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "current_question",
+          "type": "number",
+          "value": 0
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -7937,12 +8491,147 @@
           "depth": 0,
           "height": 214,
           "layer": "",
-          "name": "level_1_text",
+          "name": "level_1_main_text",
           "persistentUuid": "8ac0f88c-7eb9-4744-821a-ca28b3762c7e",
           "width": 845,
           "x": 217,
           "y": 821,
           "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "layar_hologram",
+          "persistentUuid": "234c526f-1cfc-468d-84b0-20a6d14331f5",
+          "width": 0,
+          "x": 1574,
+          "y": 43,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 251,
+          "layer": "",
+          "name": "pertanyaan",
+          "persistentUuid": "8546d23d-080d-4b72-9ed4-4626d7ad5738",
+          "width": 552,
+          "x": 1641,
+          "y": 226.5,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "button_jawaban",
+          "persistentUuid": "f1eb3a6b-aa34-403e-847d-130900c4043a",
+          "width": 0,
+          "x": 476,
+          "y": 720,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "button_jawaban",
+          "persistentUuid": "a77f838f-f575-417b-ade9-76e6ad5ba0a8",
+          "width": 0,
+          "x": 664,
+          "y": 720,
+          "zOrder": 8,
+          "numberProperties": [
+            {
+              "name": "animation",
+              "value": 1
+            }
+          ],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "setting_button",
+          "persistentUuid": "c10685be-c8c8-4680-94fb-0667d24e53f5",
+          "width": 0,
+          "x": 1131,
+          "y": 720,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "layer_hasil_jawaban",
+          "persistentUuid": "64165798-3c06-4ed3-8089-cc27394dd83a",
+          "width": 0,
+          "x": 1600,
+          "y": 67,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 94.99999999999999,
+          "keepRatio": true,
+          "layer": "",
+          "name": "level_1_title_text",
+          "persistentUuid": "f0348f12-f198-4a0d-a08c-66526134010e",
+          "width": 272,
+          "x": 28,
+          "y": -95,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 95,
+          "keepRatio": true,
+          "layer": "",
+          "name": "score_text",
+          "persistentUuid": "bc750267-6085-4cc7-a073-22fb67b8ce35",
+          "width": 328,
+          "x": 952,
+          "y": -95,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8507,7 +9196,7 @@
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "level_1_text",
+          "name": "level_1_main_text",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
@@ -8518,8 +9207,8 @@
               "name": "EllipseMovement",
               "type": "EllipseMovement::EllipseMovement",
               "RadiusX": 0,
-              "RadiusY": 6,
-              "LoopDuration": 4,
+              "RadiusY": 12,
+              "LoopDuration": 2,
               "InitialTurningLeft": false,
               "InitialDirectionAngle": 0,
               "ShouldRotate": false,
@@ -8566,6 +9255,358 @@
             "lineHeight": 0,
             "color": "0;229;255"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "layar_hologram",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "default",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "layar_hologram.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 12
+                          },
+                          {
+                            "x": 666,
+                            "y": 12
+                          },
+                          {
+                            "x": 666,
+                            "y": 356
+                          },
+                          {
+                            "x": 12,
+                            "y": 356
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "pertanyaan",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "7 [?] 2 = 5",
+          "font": "minecraft/Minecraft.ttf",
+          "textAlignment": "center",
+          "characterSize": 96,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "7 [?] 2 = 5",
+            "font": "minecraft/Minecraft.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "center",
+            "characterSize": 96,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "layer_hasil_jawaban",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "blank",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "benar",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "benar_salah/layer_benar.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 626,
+                            "y": 0
+                          },
+                          {
+                            "x": 626,
+                            "y": 318
+                          },
+                          {
+                            "x": 0,
+                            "y": 318
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "salah",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "benar_salah/layer_salah.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 626,
+                            "y": 0
+                          },
+                          {
+                            "x": 626,
+                            "y": 318
+                          },
+                          {
+                            "x": 0,
+                            "y": 318
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "level_1_title_text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "LEVEL 1!",
+          "font": "minecraft/Minecraft.ttf",
+          "textAlignment": "left",
+          "characterSize": 64,
+          "color": {
+            "b": 255,
+            "g": 229,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 12,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "LEVEL 1!",
+            "font": "minecraft/Minecraft.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 64,
+            "lineHeight": 0,
+            "color": "0;229;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "score_text",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "SOAL: 0/0",
+          "font": "minecraft/Minecraft.ttf",
+          "textAlignment": "left",
+          "characterSize": 64,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 12,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "SOAL: 0/0",
+            "font": "minecraft/Minecraft.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 64,
+            "lineHeight": 0,
+            "color": "255;255;255"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -8584,7 +9625,22 @@
             "objectName": "chip"
           },
           {
-            "objectName": "level_1_text"
+            "objectName": "level_1_main_text"
+          },
+          {
+            "objectName": "layar_hologram"
+          },
+          {
+            "objectName": "layer_hasil_jawaban"
+          },
+          {
+            "objectName": "pertanyaan"
+          },
+          {
+            "objectName": "level_1_title_text"
+          },
+          {
+            "objectName": "score_text"
           }
         ]
       },
@@ -8621,9 +9677,64 @@
                 "value": "ActivateBehavior"
               },
               "parameters": [
-                "level_1_text",
+                "level_1_main_text",
                 "EllipseMovement",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+              },
+              "parameters": [
+                "score_text",
+                "Text",
+                "=",
+                "\"SOAL: \"+ToString(current_question+1)+\"/3\""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "button_jawaban",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "button_jawaban",
+                        "id",
+                        "=",
+                        "id"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "id",
+                        "+",
+                        "1"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "variables": [
+                {
+                  "name": "id",
+                  "type": "number",
+                  "value": 0
+                }
               ]
             }
           ]
@@ -8740,16 +9851,664 @@
                 "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
               },
               "parameters": [
-                "level_1_text",
+                "level_1_main_text",
                 "Tween",
                 "\"go up\"",
                 "366",
                 "\"linear\"",
-                "2",
+                "0.8",
                 ""
               ]
             }
           ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "level_1_main_text",
+                "Tween",
+                "\"go up\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "ActivateBehavior"
+              },
+              "parameters": [
+                "level_1_main_text",
+                "EllipseMovement",
+                "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "level_1_main_text",
+                "Tween",
+                "\"go down\"",
+                "821",
+                "\"linear\"",
+                "0.8",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "level_1_main_text",
+                "Tween",
+                "\"go down\""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "pertanyaan_group",
+                "Tween",
+                "\"go left\"",
+                "pertanyaan_group.X()-1280",
+                "\"easeOutQuad\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "button_jawaban",
+                "Tween",
+                "\"go up\"",
+                "567",
+                "\"easeOutQuad\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "setting_button",
+                "Tween",
+                "\"go up\"",
+                "582",
+                "\"easeOutQuad\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "level_1_title_text",
+                "Tween",
+                "\"go down\"",
+                "45",
+                "\"linear\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "score_text",
+                "Tween",
+                "\"go down\"",
+                "45",
+                "\"linear\"",
+                "1.5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::ForEach",
+          "object": "button_jawaban",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "SetBooleanObjectVariable"
+              },
+              "parameters": [
+                "button_jawaban",
+                "is_clicked",
+                "True",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "button_jawaban",
+                "is_clicked",
+                "True",
+                ""
+              ]
+            }
+          ],
+          "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ButtonStates::ButtonFSM::IsClicked"
+              },
+              "parameters": [
+                "button_jawaban",
+                "ButtonFSM",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "button_jawaban.id",
+                "\"info\"",
+                ""
+              ]
+            }
+          ],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AjoutObjConcern"
+                  },
+                  "parameters": [
+                    "",
+                    "button_jawaban"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "button_jawaban",
+                    "ButtonFSM",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "questions[current_question].answer_id",
+                    "=",
+                    "button_jawaban.id"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "DebuggerTools::ConsoleLog"
+                  },
+                  "parameters": [
+                    "\"jawaban benar\"",
+                    "\"info\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "pertanyaan",
+                    "Text",
+                    "=",
+                    "questions[current_question].right_question"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "layer_hasil_jawaban",
+                    "Animation",
+                    "=",
+                    "\"benar\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "current_question",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "layer_hasil_jawaban",
+                    "Animation",
+                    "=",
+                    "\"blank\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "pertanyaan",
+                    "Text",
+                    "=",
+                    "questions[current_question].question"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AjoutObjConcern"
+                      },
+                      "parameters": [
+                        "",
+                        "button_jawaban"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "button_jawaban",
+                        "ButtonFSM",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "current_question",
+                        "<",
+                        "3"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "score_text",
+                        "Text",
+                        "=",
+                        "\"SOAL: \"+ToString(current_question+1)+\"/3\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "questions[current_question].answer_id",
+                    "=",
+                    "button_jawaban.id"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "DebuggerTools::ConsoleLog"
+                  },
+                  "parameters": [
+                    "\"jawaban salah\"",
+                    "\"info\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "pertanyaan",
+                    "Text",
+                    "=",
+                    "questions[current_answer].wrong_question"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "layer_hasil_jawaban",
+                    "Animation",
+                    "=",
+                    "\"salah\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "current_question",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "layer_hasil_jawaban",
+                    "Animation",
+                    "=",
+                    "\"blank\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "pertanyaan",
+                    "Text",
+                    "=",
+                    "questions[current_question].question"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AjoutObjConcern"
+                      },
+                      "parameters": [
+                        "",
+                        "button_jawaban"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "button_jawaban",
+                        "ButtonFSM",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "current_question",
+                        "<",
+                        "3"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "score_text",
+                        "Text",
+                        "=",
+                        "\"SOAL: \"+ToString(current_question+1)+\"/3\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "NumberVariable"
+              },
+              "parameters": [
+                "current_question",
+                "=",
+                "2"
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "score_text",
+                "Tween",
+                "\"go up\"",
+                "-95",
+                "\"linear\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "level_1_title_text",
+                "Tween",
+                "\"go up\"",
+                "-95",
+                "\"linear\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "setting_button",
+                "Tween",
+                "\"go down\"",
+                "720",
+                "\"easeOutQuad\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionYTween2"
+              },
+              "parameters": [
+                "button_jawaban",
+                "Tween",
+                "\"go down\"",
+                "720",
+                "\"easeOutQuad\"",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectPositionXTween2"
+              },
+              "parameters": [
+                "pertanyaan_group",
+                "Tween",
+                "\"go left 2\"",
+                "pertanyaan_group.X()-1280",
+                "\"easeOutQuad\"",
+                "1.5",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Tween::HasFinished"
+              },
+              "parameters": [
+                "score_text",
+                "Tween",
+                "\"go up\""
+              ]
+            }
+          ],
+          "actions": []
         }
       ],
       "layers": [
