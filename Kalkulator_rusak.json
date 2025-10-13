@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "main_scene",
   "gdVersion": {
     "build": 242,
     "major": 5,
@@ -5452,6 +5452,11 @@
           "name": "score_per_level_text",
           "type": "string",
           "value": ""
+        },
+        {
+          "name": "unlock_level_text",
+          "type": "string",
+          "value": "0"
         }
       ],
       "instances": [
@@ -7279,12 +7284,51 @@
             },
             {
               "type": {
+                "value": "ReadStringFromStorage"
+              },
+              "parameters": [
+                "\"level\"",
+                "\"score\"",
+                "",
+                "unlock_level_text"
+              ]
+            },
+            {
+              "type": {
                 "value": "DebuggerTools::ConsoleLog"
               },
               "parameters": [
                 "score_per_level_text",
                 "\"info\"",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "DebuggerTools::ConsoleLog"
+              },
+              "parameters": [
+                "unlock_level_text",
+                "\"info\"",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "score_per_level_text",
+                "score_per_level"
+              ]
+            },
+            {
+              "type": {
+                "value": "JSONToVariableStructure2"
+              },
+              "parameters": [
+                "unlock_level_text",
+                "level_unlock"
               ]
             },
             {
@@ -20851,6 +20895,16 @@
                 "\"score\"",
                 "\"score\"",
                 "ToJSON(score_per_level)"
+              ]
+            },
+            {
+              "type": {
+                "value": "EcrireFichierTxt"
+              },
+              "parameters": [
+                "\"level\"",
+                "\"score\"",
+                "ToJSON(level_unlock)"
               ]
             }
           ]
